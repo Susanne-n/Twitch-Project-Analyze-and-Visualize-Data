@@ -20,4 +20,4 @@ In part 2 of this the project, you will be taking your findings from the SQL que
 -   Pie Chart: Stream Viewers’ Locations
 -   Line Graph: Time Series Analysis
 
-The Twitch Science Team provided this practice dataset.
+The Twitch Science Team provided a practice dataset.
