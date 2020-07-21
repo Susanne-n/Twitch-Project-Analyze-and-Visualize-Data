@@ -1,6 +1,6 @@
 # Twitch-Project-Analyze-and-Visualize-Data
 
-*This project is a part of Codecademy's Data Science Career Path
+*This project is a part of Codecademy's Data Science Career Path*
 
 Twitch Part 1: Analyze Data with SQL
 
