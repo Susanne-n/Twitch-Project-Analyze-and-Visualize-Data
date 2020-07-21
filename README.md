@@ -1,5 +1,7 @@
 # Twitch-Project-Analyze-and-Visualize-Data
 
+*This project is a part of the codecademy Data Science Career Path*
+
 Twitch Part 1: Analyze Data with SQL
 
 Twitch is the world’s leading video platform and community for gamers, with 15+ million unique daily visitors. Using data to understand its users and products is one of the chief responsibilities of the Twitch Science Team.
