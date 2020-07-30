@@ -1,4 +1,4 @@
-# Twitch-Project-Analyze-and-Visualize-Data
+# Twitch-Project-Analyze-and-Visualize-Data-SQL-Python
 
 *This project is a part of Codecademy's Data Science Career Path*
 
